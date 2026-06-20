@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Vanshika 👋
+🎓 BTech CSE Student  
 
-<!--
-**vanshikabatra36/vanshikabatra36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c" height="40"/>
+</p>
+
+###  Tools 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="40"/>
+</p>
+
+##  Currently Learning
+<ul>
+  <li> Web Development </li>
+  <li> Full Stack Development </li>
+  <li> AI/ML </li>
+</ul>
+
+##  Current Goals
+<ul>
+  <li> Learn C Programming </li>
+  <li> Master HTML, CSS & Javascript </li>
+  <li> Explore AI and Machine Learning </li>
+  <li> Practice DSA </li>
+</ul>
+
+
+##  Projects
+<p>Coming Soon... </p>
+
+
+##  Connect With Me
+<p align="left">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
