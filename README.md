@@ -1,5 +1,4 @@
 # 👋 Hi, I am Vanshika
-👩🏻‍💻 BTech CSE student sharing about my journey and learnings in tech <br><br>
 ![](https://github-readme-stats.shion.dev/api?username=vanshikabatra36&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ## 💻 Tech Stack:
