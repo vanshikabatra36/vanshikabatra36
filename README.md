@@ -16,20 +16,13 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vanshikabatra36&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## Currently Learning
+## 🚀 Goals
 <ul>
   <li> Web Development </li>
   <li> Full Stack Development </li>
   <li> AI/ML </li>
 </ul>
 
-## Current Goals
-<ul>
-  <li> Learn C Programming </li>
-  <li> Master HTML, CSS & Javascript </li>
-  <li> Explore AI and Machine Learning </li>
-  <li> Practice DSA </li>
-</ul>
 
 ## 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=vanshikabatra36&theme=radical&hide_border=false)
